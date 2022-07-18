@@ -16,4 +16,4 @@ spec:
       - image: okteto.dev/v2ray-okteto:latest
         name: v2ray-okteto
         ports:
-        - containerPort: 443
+        - containerPort: 8080
