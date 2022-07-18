@@ -8,6 +8,6 @@ spec:
   type: ClusterIP  
   ports:
   - name: "v2ray-okteto"
-    port: 8080
+    port: 443
   selector:
     app: v2ray-okteto
